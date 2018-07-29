@@ -1,3 +1,3 @@
 # hello-world
-Tutorial repository on how to use GitHub
-love my cat, dog, bird and cows - what a menagerie
+Hi there
+I love my pets.  As you can see I have a few: a cat, a dog, a bird and some cows - what a menagerie
